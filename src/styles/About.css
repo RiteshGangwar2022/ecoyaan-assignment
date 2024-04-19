@@ -1,0 +1,37 @@
+.reveal{
+    width: 100%;
+    height: 0;
+    bottom:0;
+    left:0;
+    right: 0;
+    position: absolute;
+    background: (0,0,0,0.6);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+    text-align: center;
+    transition: all ease 1s;
+}
+.values:hover .reveal{
+    height: 100%;
+    background: rgba(235, 251, 255, 0.751);
+    padding: 3rem;
+    font: bold;
+    font-size: 1rem;
+    transition: all ease 0.4s;
+}
+.first{
+    width: 50rem;
+    font-size: 1rem;
+}
+.values{    
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 18rem;
+    width: 20rem;
+}

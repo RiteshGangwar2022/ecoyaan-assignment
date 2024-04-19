@@ -1,0 +1,25 @@
+
+  .image-container {
+    width: 20rem; /* Set width for three columns with margin */
+    padding: 1rem;
+    margin-left: 5rem;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .round-image {
+    border-radius: 50%;
+    width: 100px; 
+    height: 100px; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .info {
+    margin-top: 10px;
+  }
+  h4{
+    color:rgb(236, 88, 88);
+  }

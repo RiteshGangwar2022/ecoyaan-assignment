@@ -1,0 +1,8 @@
+.navbar {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFuvjq6No6a563hV975Vam7y85I2EHy8qsoHbbji9KdE8Dmz3AT-6X3WkdMRu6ooAMBN0&usqp=CAU");
+
+    background-size: cover; /* Fit the image within the container */
+    background-repeat: no-repeat;
+ /* Set the height to fill the viewport */
+    color: black;
+}
